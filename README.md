@@ -54,4 +54,3 @@ Cada transação pode corresponder a outra cuja data seja do dia anterior ou pos
 - A ordem dos outputs do exemplo e do script estão diferentes, mas ele retorna os valores esperados.
 - Isso se dá por causa da ordenação aplicada para termos a correspondência com a primeira data.
 - Criei diversas funções para assim isolar as diferentes etapas do processo. Dessa forma, reduzo a complexidade ciclomática do fluxo principal, documento adequadamente cada etapa, facilita a criação dos testes e as funções podem ser reutilizadas. 
-- Para melhorar a legibilidade, optei por
